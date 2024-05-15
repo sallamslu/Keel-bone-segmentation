@@ -1,0 +1,5 @@
+
+
+python3 binary_keel_segmentation_learning_v1.py   > ../data/output/binary_keel_segmentation_learning_v1.log   2>&1
+python3 binary_keel_segmentation_predicting_v1.py > ../data/output/binary_keel_segmentation_predicting_v1.log 2>&1
+
