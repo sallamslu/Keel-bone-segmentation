@@ -1,5 +1,13 @@
 
 
+# to run the training
 python3 binary_keel_segmentation_learning_v1.py   > ../data/output/binary_keel_segmentation_learning_v1.log   2>&1
+
+# to visuaize the the predicted keel vs true keel and the original images
 python3 binary_keel_segmentation_predicting_v1.py > ../data/output/binary_keel_segmentation_predicting_v1.log 2>&1
 
+# to plot the training and validation loss and dice in one figure
+cp plot_across_folds_subplot.py ../data/output/
+cd ../data/output/
+python3 plot_across_folds_subplot.py
+rm plot_across_folds_subplot.py
