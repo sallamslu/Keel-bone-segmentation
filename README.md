@@ -3,14 +3,9 @@ Here is the workflow to train the deep learning U-net model to
 segemtn the keel bone from the whole-body x-ray images of chickens   
 
 #1 Please create a directory with name "keel-bone-segmentation", with the structure like this:
-keel-bone-segmentation
-├── data
-│   ├── images
-│   ├── masked
-│   └── output
-└── scripts
-    ├── binary_keel_segmentation_learning_v1.py and binary_keel_segmentation_predicting_v1.py
-    └── segmentation_functions.py ,  plot_across_folds_subplot.py and to_run_python3.txt
+
+![directory_structure](https://github.com/sallamslu/Keel-bone-segmentation/assets/91287246/399f8b9d-5482-4318-aa40-9e47181665e8)
+
 
 #2 Both "images" and "masked" are avaialbe to download from Zenodo link: https://doi.org/10.5281/zenodo.11172093 
 
