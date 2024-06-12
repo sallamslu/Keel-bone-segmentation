@@ -3,7 +3,7 @@ Script Name: segmentation_functions.py
 Author:      Moh. Sallam
 Description: [this script conatins the required functions to be used in 
               "binary_keel_segmentation_learning_v1.py" and 
-              "binary_keel_segmentation_learning_v1.py"
+              "binary_keel_segmentation_predicting_v1.py"
 
 Date:        [Most of this script was created on Jan 2022 and updated on Mar 2024 ]
 """
