@@ -1,3 +1,16 @@
+
+"""
+Script Name: plot_across_folds_subplot.py
+Author:      Moh. Sallam
+Description: [this script is to visualize 
+              the original images+true and predicted keels
+              N.B: this script uses 
+              the functions in "segmentation_functions.py" and
+              the trained models from "binary_keel_segmentation_learning_v1.py"
+
+Date:        [Most of this script was created on Jan 2022 and updated on Mar 2024 ]
+"""
+
 import os
 import pandas as pd
 import matplotlib.pyplot as plt
