@@ -1,6 +1,6 @@
 
 """
-Script Name: binary_keel_segmentation_predicitinng_v1.py
+Script Name: binary_keel_segmentation_prediciting_v1.py
 Author:      Moh. Sallam
 Description: [this script is to visualize 
               the original images+true and predicted keels
