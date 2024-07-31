@@ -9,7 +9,7 @@ segemtn the keel bone from the whole-body x-ray images of chickens
 
 #2 Both "images" and "masked" are avaialbe to download from Zenodo link: https://doi.org/10.5281/zenodo.11172093 
 
-#3 All codes are avialable to use here: https://github.com/sallamslu/Keel-bone-segmentation 
+#3 All scripts are avialable to use here: https://github.com/sallamslu/Keel-bone-segmentation 
 
 #4 Run the training from "scripts" folder as following:
 python3 binary_keel_segmentation_learning_v1.py > ../data/output/binary_keel_segmentation_learning_v1.log   2>&1
