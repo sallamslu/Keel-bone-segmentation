@@ -11,7 +11,7 @@ Description: [this script is to train specific U-net to segemnt keel bone
               1) evaluate training vs validation for loss and dice-coefficient.
               2) evaluate the model on the testing sets for the dice-coefficient.   
               
-              3) you can can also visualize the original images of testing sets, 
+              3) you can also visualize the original images of testing sets, 
                  and their true and predicted keels, by runing the script
                  "binary_keel_segmentation_predicting_v1.py"
               
