@@ -1,6 +1,6 @@
 # keel-bone-segmentation workflow
 Here is the workflow to train the deep learning U-net model to 
-segemtn the keel bone from the whole-body x-ray images of chickens   
+segment the keel bone from the whole-body x-ray images of chickens   
 
 #1 Please create a directory with name "keel-bone-segmentation", with the structure like this:
 
